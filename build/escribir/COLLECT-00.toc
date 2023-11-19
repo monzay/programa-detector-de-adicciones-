@@ -1,5 +1,5 @@
 ([('escribir.exe',
-   'C:\\Users\\Administrator\\Desktop\\nashe\\build\\escribir\\escribir.exe',
+   'C:\\Users\\Administrator\\Desktop\\python\\build\\escribir\\escribir.exe',
    'EXECUTABLE'),
   ('python312.dll',
    'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python312\\python312.dll',
@@ -44,5 +44,5 @@
    'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libffi-8.dll',
    'BINARY'),
   ('base_library.zip',
-   'C:\\Users\\Administrator\\Desktop\\nashe\\build\\escribir\\base_library.zip',
+   'C:\\Users\\Administrator\\Desktop\\python\\build\\escribir\\base_library.zip',
    'DATA')],)
